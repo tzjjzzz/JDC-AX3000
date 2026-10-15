@@ -13,7 +13,6 @@
 | luci-app-openclash | vernesong/OpenClash |
 | luci-app-partexp（分区扩容） | sirpdboy/luci-app-partexp |
 | luci-app-wolultra（网络唤醒） | ones20250/packages |
-| luci-app-ddns-go | sirpdboy/luci-app-ddns-go |
 | luci-app-pushbot | zzsj0928/luci-app-pushbot |
 | luci-app-wechatpush | tzjjzzz/luci-app-wechatpush |
 | luci-app-bandix / bandix-plus | timsaya/* |

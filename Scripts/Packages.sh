@@ -72,7 +72,6 @@ UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "master" "pkg"
 UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 # 网络唤醒：只从 ones20250/packages 里提取 wolultra，避免把整个大杂烩仓库(sing-box/homeproxy 等)带进来
 UPDATE_PACKAGE "luci-app-wolultra" "ones20250/packages" "main" "pkg"
-UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
 
 # ---------- 消息推送 ----------
 UPDATE_PACKAGE "luci-app-pushbot" "zzsj0928/luci-app-pushbot" "master"
