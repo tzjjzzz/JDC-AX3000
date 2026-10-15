@@ -24,7 +24,7 @@
 | 工作流 | 源码 | 说明 |
 | --- | --- | --- |
 | `build-mainline.yaml` | openwrt/openwrt main | 无 NSS 的主线版本，设备补丁已验证可应用 |
-| `build-nss-edma.yaml` | kuncy7/openwrt-nss-edma | 带 NSS 加速版本，**补丁尚未对齐上游，需要单独修复后再使用** |
+| `build-nss-edma.yaml` | kuncy7/openwrt-nss-edma | 带 NSS 加速版本，设备补丁已对齐该分支最新代码 |
 
 ## 刷机
 
